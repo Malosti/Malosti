@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Malosti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malosti&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malosti&layout=compact&langs_count=16&theme=radical"/>
+  <img width="600em" height="180em" src="https://github-readme-stats.vercel.app/api?username=Malosti&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
+  <img width="600em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malosti&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div>
