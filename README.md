@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Guilherme Malosti</h1>
 <h3 align="center">.NET developer from Brazil</h3>
 
-<h4 align="center">Desenvolvedor recém formado, estou iniciando no mercado de desenvolvimento. Atualmente trabalho com aplicações web, utilizando ASP.NET.</h4>
+<h4 align="center">Desenvolvedor recém formado, estou iniciando no mercado de desenvolvimento. Atualmente trabalho com aplicações web, utilizando conceitos e práticas da plataforma .NET.</h4>
 
 <div align="center">
   <a href="https://github.com/Malosti">
